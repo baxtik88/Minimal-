@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'MontsR' ;
+    src: url(../fonts/Montserrat-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'VollkornR' ;
+    src: url(../fonts/Vollkorn-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'OswaldR' ;
+    src: url(../fonts/Oswald-Regular.ttf) format('truetype');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Rubik&family=Vollkorn:ital@0;1&display=swap');
